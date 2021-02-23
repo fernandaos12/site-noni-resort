@@ -1,2 +1,3 @@
-# Site Noni Resort
-URL - http://noniresort.com.br
+# Wordpress theme resort
+
+Criação wordpress theme resort
